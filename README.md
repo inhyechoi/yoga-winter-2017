@@ -1,4 +1,5 @@
 # yoga-winter-2017
+<img src="https://github.com/inhyechoi/yoga-winter-2017/blob/master/themes/yoga_outreach/images/YogaOutreach%20Logo.png" height="300" width="auto" alt="YO logo">
 This is Yoga Outreach. A Wordpress custom theme designed to express the meaning of tranquility browsing.
 
 The goal for this project was to construct a fully functional custom theme mimicing the design comps that were handed to us from the UI UX design team. 
